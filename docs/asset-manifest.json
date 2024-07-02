@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LaksEcart/static/css/main.fd888f2a.css",
+    "main.js": "/LaksEcart/static/js/main.67760589.js",
+    "index.html": "/LaksEcart/index.html",
+    "main.fd888f2a.css.map": "/LaksEcart/static/css/main.fd888f2a.css.map",
+    "main.67760589.js.map": "/LaksEcart/static/js/main.67760589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd888f2a.css",
+    "static/js/main.67760589.js"
+  ]
+}
